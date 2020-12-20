@@ -4,6 +4,10 @@ automated script for VLESS, VMess and Trojan-Go
 ## Usage
 ```sh
 curl -fsSL https://raw.githubusercontent.com/phlinhng/v2ray-tcp-tls-web/vless/src/v2gun.sh -o ~/v2gun.sh && bash ~/v2gun.sh
+
+or
+
+curl -fsSL https://raw.githubusercontent.com/imtoohard/v2ray-tcp-tls-web/vless/src/v2gun.sh -o ~/v2gun.sh && bash ~/v2gun.sh
 ```
 To run the script again once downloaded, just use the following command:
 ```
